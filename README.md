@@ -1,2 +1,3 @@
 # CardioPredict_AI
 CardioPredict_AI: Machine Learning for Heart Disease Risk Prediction
+This project leverages machine learning and high-performance computing to predict heart disease risk using health and demographic data. By integrating tools like Random Forest, Logistic Regression, and Dask for parallel processing, the model achieves high accuracy (~94%) while significantly reducing execution time. Key predictors such as BMI, age, and hypertension are identified as major contributors to heart disease risk. The project demonstrates how data-driven insights and computational optimization can enhance early diagnosis and preventive healthcare strategies.
